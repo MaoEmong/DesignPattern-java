@@ -12,7 +12,7 @@ src/
 ├── ex05/          # 템플릿 메서드 패턴 (Template Method)
 ├── ex06/          # 데코레이터 패턴 (Decorator)
 ├── ex07/          # 팩토리 패턴 (Factory)
-├── ex08/          # 옵저버 패턴 (Observer)
+├── mock/          # 옵저버 패턴 (Observer)
 │   ├── polling/   #   - 폴링 방식 (Pull)
 │   └── push/      #   - 푸시 방식 (Push)
 │       ├── pub/   #     - 발행자 (Publisher)
